@@ -1,0 +1,123 @@
+#gContainer{
+    background-color: #F2F2F2;
+    margin: 20px;
+    
+}
+
+h1{
+    padding: 20px;
+}
+
+h4{
+    padding: 20px;
+}
+p{
+    padding: 20px;
+}
+
+#card1{
+    padding: 10px;
+}
+#card1 input{
+    width: 420px;
+}
+
+#card2{
+    padding: 10px;
+}
+#card2 input{
+    width: 420px;
+}
+
+#card3{
+    padding: 10px;
+}
+
+#card3 input{
+    width: 420px;
+}
+#card4 input{
+    width: 420px;
+}
+
+#card4{
+    padding: 10px;
+}
+
+
+#card5{
+    padding: 10px;
+}
+
+#card5 input{
+    width: 420px;
+}
+
+#card6{
+    padding: 10px;
+}
+
+#card6 input{
+    width: 420px;
+}
+
+#hContainer{
+    background-color: #F2F2F2;
+    margin: 20px;
+} 
+
+h5{
+    padding: 20px;
+    padding-top: 10px;
+}
+
+.icon-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px;
+    background-color:#1B396A;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+#card7{
+    padding: 10px;
+}
+
+#card7 input{
+    width: 420px;
+}
+
+#card8{
+    padding: 10px;
+}
+
+#card8 input{
+    width: 420px;
+}
+
+#card9{
+    padding: 10px;
+}
+#card9 input{
+    width: 380px;
+}
+
+#card10{
+    padding: 10px;
+}
+#card10 input{
+    width: 380px;
+}
+
+
+#card11{
+    padding: 10px;
+}
+
+#card12{
+    padding: 10px;
+}

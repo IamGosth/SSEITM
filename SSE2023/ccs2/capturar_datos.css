@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+  }
+#tablero{
+    background:  #F2F2F2;
+    text-align: center;
+    
+}
+
+input {
+    width: 100%; /* El input ocupará el 100% del ancho del contenedor padre */
+    padding: 5px; /* Ajusta el relleno según tus preferencias */
+    box-sizing: border-box; /* Evita que el relleno afecte al ancho total del input */
+    width: 300px; 
+    margin-top: 5px;
+  }
+
+.btn{
+    background-color:#C4C4C4 ;
+}
+
+#cancelar{
+    background-color: #717771; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado interno */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; /* Tamaño del texto */
+    border-radius: 4px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el ratón */
+    border: none; /* Elimina el borde predeterminado */
+    margin-right: 10px;
+    
+}
+
+#guardar{
+    background-color: #203c6c; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado interno */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; /* Tamaño del texto */
+    border-radius: 4px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el ratón */
+    border: none; /* Elimina el borde predeterminado */
+    
+}
+
